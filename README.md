@@ -20,3 +20,6 @@ This project was developed as part of the Bachelor of Science in Information Tec
 * [.NET SDK](https://dotnet.microsoft.com/download) (Version 7.0 or 8.0 recommended)
 * Visual Studio 2022, JetBrains Rider, or VS Code
 * SQL Server or a compatible local database provider
+
+👨‍💻 Author
+Adrian Kim P. De Guzman BSIT 3A - Bicol University Polangui
