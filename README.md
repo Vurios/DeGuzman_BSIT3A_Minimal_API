@@ -21,5 +21,5 @@ This project was developed as part of the Bachelor of Science in Information Tec
 * Visual Studio 2022, JetBrains Rider, or VS Code
 * SQL Server or a compatible local database provider
 
-👨‍💻 Author
+## 👨‍💻 Author
 Adrian Kim P. De Guzman BSIT 3A - Bicol University Polangui
